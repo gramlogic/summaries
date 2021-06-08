@@ -1,40 +1,38 @@
 # Believing the Axioms. I
 
-## Gloss
+````{dropdown} Gloss
 A preliminary empirical study of mathematical "facts" and evidence used to justify axioms.
-
-### Motive 
+```{tabbed} Motive 
 Understand "when and why" the facts that support adoption of an axiom are justified.
 * Could be of help to mathematicians searching for axioms.
-
-### Method
+```
+```{tabbed} Method
+Investigates when and why mathematical axioms are justified.
 * Focus on views of the Cabal seminar.
 * List the arguments used to justify adoption of the axioms.
+```
+```{tabbed} Organization
+Part 1 (this paper):
+* Axioms of ZFC
+* Continuum Problem
+* Small large cardinals and measurable cardinals
 
-Investigates when and why mathematical axioms are justified.
-
-#### Organization
-* Part 1 (this paper):
-    * Axioms of ZFC
-    * Continuum Problem
-    * Smal large cardinals and measurable cardinals
-* Part 2 ([summarized here](maddy1988believing2.md)):
-    * Determinacy hypothesis
-    * Large large cardinals
-    * Philosophical observations
- 
-## Dependencies
+Part 2 ([summarized here](maddy1988believing2.md)):
+* Determinacy hypothesis
+* Large large cardinals
+* Philosophical observations
+```
+```{tabbed} Dependencies 
 This paper assumes knowledge of:
 * Set theory (basic)
-
-## Background
-
-### [Cabal Seminar](https://en.wikipedia.org/wiki/Cabal_(set_theory))
-
-#### Determinacy
-
-#### Large Cardinal Assumptions
-
+```
+```` 
+```{dropdown} Background
+TODO:
+* [Cabal Seminar](https://en.wikipedia.org/wiki/Cabal_(set_theory))
+* Determinacy
+* Large Cardinal Assumptions
+```
 ## The Axioms of ZFC
 * Starting with these to counteract impression that 
     * ZFC axioms are more "intrinsic" 
@@ -43,14 +41,14 @@ This paper assumes knowledge of:
 * Even a cursory look at the axioms reveals this characterization doesn't hold up
 * Adoption of ZFC axioms "should be viewed as a historical accident, not a sign of their privileged epistemological or metaphysical status"
 
-### Intrinsic / Extrinsic
+#### Intrinsic / Extrinsic
 This distinction comes up frequently
 
-#### Intrinsic
+##### Intrinsic
 * Obvious, self-evident
 * Following directly from the concept of the set
 
-#### Extrinsic
+##### Extrinsic
 * Pragmatic, heuristic
 * Justified for 
     * consequences,
@@ -58,6 +56,22 @@ This distinction comes up frequently
     * explanatory power
 * More like techniques of natural sciences
 
+#### origins of ZFC
+````{margin}
+```{admonition} remark
+Maddy introduces the anecdote above as the beginning of the "impulse towards axiomatization," which sounds very general and likely to require a longer discussion. However, her argument makes more sense if understood as giving the historical origns of Zermelo's first axioms.
+```
+````
+* Begins in 1883 with Cantor's "law of thought"
+    * "It is always possible to bring any _well-defined_ set into the _form of a well-ordered set_.
+    * Hallet argues this belief comes from "Cantorian finitism"
+    * Mathematical community did not find this obvious
+    * 1895: Cantor decided it should really be a theorem and tried to prove it.
+    * See Cantor's letter to Dedekind (1899)
+* Zermelo proved theorem in 1904
+    * Relied on Axiom of Choice (controversial)
+    * Zermelo (influenced by Hilbert) hoped to secure proof by listing assumptions it required and proposing them as an axiomatic foundation for set theory.
+* Takeaway: these axioms were motivated by desire to prove a theorem, not to avoid paradoxes.
 
 
 ### Extensionality
@@ -80,3 +94,4 @@ This distinction comes up frequently
 
 ## Small large cardinals—up from below
 
+## References
