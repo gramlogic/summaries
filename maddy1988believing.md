@@ -59,6 +59,11 @@ This distinction comes up frequently
 * More like techniques of natural sciences
 
 #### origins of ZFC
+````{margin}
+```{admonition} remark
+Maddy introduces the anecdote above as the beginning of the "impulse towards axiomatization," which sounds very general and likely to require a longer discussion. However, her argument makes more sense if understood as giving the historical origns of Zermelo's first axioms.
+```
+````
 * Begins in 1883 with Cantor's "law of thought"
     * "It is always possible to bring any _well-defined_ set into the _form of a well-ordered set_.
     * Hallet argues this belief comes from "Cantorian finitism"
@@ -70,8 +75,6 @@ This distinction comes up frequently
     * Zermelo (influenced by Hilbert) hoped to secure proof by listing assumptions it required and proposing them as an axiomatic foundation for set theory.
 * Takeaway: these axioms were motivated by desire to prove a theorem, not to avoid paradoxes.
 
-##### remark
-Maddy introduces the anecdote above as the beginning of the "impulse towards axiomatization," which sounds very general and likely to require a longer discussion. However, her argument makes more sense if understood as giving the historical origns of Zermelo's first axioms.
 
 ### Extensionality
 
