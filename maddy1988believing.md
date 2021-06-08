@@ -1,40 +1,38 @@
 # Believing the Axioms. I
 
-## Gloss
+````{dropdown} Gloss
 A preliminary empirical study of mathematical "facts" and evidence used to justify axioms.
-
-### Motive 
+```{tabbed} Motive 
 Understand "when and why" the facts that support adoption of an axiom are justified.
 * Could be of help to mathematicians searching for axioms.
-
-### Method
+```
+```{tabbed} Method
+Investigates when and why mathematical axioms are justified.
 * Focus on views of the Cabal seminar.
 * List the arguments used to justify adoption of the axioms.
+```
+```{tabbed} Organization
+Part 1 (this paper):
+* Axioms of ZFC
+* Continuum Problem
+* Small large cardinals and measurable cardinals
 
-Investigates when and why mathematical axioms are justified.
-
-#### Organization
-* Part 1 (this paper):
-    * Axioms of ZFC
-    * Continuum Problem
-    * Smal large cardinals and measurable cardinals
-* Part 2 ([summarized here](maddy1988believing2.md)):
-    * Determinacy hypothesis
-    * Large large cardinals
-    * Philosophical observations
- 
-## Dependencies
+Part 2 ([summarized here](maddy1988believing2.md)):
+* Determinacy hypothesis
+* Large large cardinals
+* Philosophical observations
+```
+```{tabbed} Dependencies 
 This paper assumes knowledge of:
 * Set theory (basic)
-
-## Background
-
-### [Cabal Seminar](https://en.wikipedia.org/wiki/Cabal_(set_theory))
-
-#### Determinacy
-
-#### Large Cardinal Assumptions
-
+```
+```` 
+```{dropdown} Background
+TODO:
+* [Cabal Seminar](https://en.wikipedia.org/wiki/Cabal_(set_theory))
+* Determinacy
+* Large Cardinal Assumptions
+```
 ## The Axioms of ZFC
 * Starting with these to counteract impression that 
     * ZFC axioms are more "intrinsic" 
