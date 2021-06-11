@@ -1,15 +1,21 @@
 # Believing the Axioms. I
+The first part of Penelope Maddy's study of arguments and reasoning that have led to the adoption of mathematical axioms.
 
-````{dropdown} Gloss
-A preliminary empirical study of mathematical "facts" and evidence used to justify axioms.
-```{tabbed} Motive 
+````{info} At a glance
+:class: dropdown
+```{tabbed} Gloss
+A preliminary empirical study of mathematical "facts" and evidence used to justify axiom.
+```
+```{tabbed} Goals 
 Understand "when and why" the facts that support adoption of an axiom are justified.
+
+**Application:**
 * Could be of help to mathematicians searching for axioms.
 ```
 ```{tabbed} Method
-Investigates when and why mathematical axioms are justified.
 * Focus on views of the Cabal seminar.
-* List the arguments used to justify adoption of the axioms.
+* Review axioms that were actually accepted.
+* List the arguments used to justify their adoption.
 ```
 ```{tabbed} Organization
 Part 1 (this paper):
@@ -26,13 +32,23 @@ Part 2 ([summarized here](maddy1988believing2.md)):
 This paper assumes knowledge of:
 * Set theory (basic)
 ```
+```{tabbed} Author
+Penelope Maddy 
+```
 ```` 
 ```{dropdown} Background
-TODO:
+The author assumes knowledge of the following terms and concepts:
 * [Cabal Seminar](https://en.wikipedia.org/wiki/Cabal_(set_theory))
 * Determinacy
 * Large Cardinal Assumptions
 ```
+
+## Introduction
+* Axioms of ZFC
+* Continuum Problem
+* Small large cardinals and measurable cardinals
+
+
 ## The Axioms of ZFC
 * Starting with these to counteract impression that 
     * ZFC axioms are more "intrinsic" 
