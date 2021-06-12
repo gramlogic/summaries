@@ -43,24 +43,3 @@ Maddy introduces the anecdote above as the beginning of the "impulse towards axi
 * Takeaway: these axioms were motivated by desire to prove a theorem, not to avoid paradoxes.
 
 
-### Extensionality
-
-### Foundation 
-
-### Pairing and Union 
-
-### Separation 
-
-### Infinity 
-
-### Power set
-
-### Choice 
-
-### Replacement
-
-## The continuum problem
-
-## Small large cardinals—up from below
-
-## References

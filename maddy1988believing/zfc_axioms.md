@@ -1,23 +1,49 @@
-# 
+# ZFC Axioms 
 
-Extensionality
+```{admonition} Extensionality
+:class: dropdown
 
-### Foundation 
+Placeholder
+```
 
-### Pairing and Union 
+```{admonition} Foundation
+:class: dropdown
 
-### Separation 
+Placeholder
+```
 
-### Infinity 
+```{admonition} Pairing and Union 
+:class: dropdown
 
-### Power set
+Placeholder
+```
 
-### Choice 
+```{admonition} Separation 
+:class: dropdown
 
-### Replacement
+Placeholder
+```
 
-## The continuum problem
+```{admonition} Infinity 
+:class: dropdown
 
-## Small large cardinals—up from below
+Placeholder
+```
 
-## References
+```{admonition} Power set
+:class: dropdown
+
+Placeholder
+```
+
+```{admonition} Choice 
+:class: dropdown
+
+Placeholder
+```
+
+```{admonition} Replacement 
+:class: dropdown
+
+Placeholder
+```

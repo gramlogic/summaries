@@ -4,5 +4,9 @@ chapters:
 - file: maddy1988believing/gloss
   sections:
   - file: maddy1988believing/intro
-  - file: maddy1988believing/zfc
+  - file: maddy1988believing/zfc_intro
+  - file: maddy1988believing/zfc_axioms
+  - file: maddy1988believing/continuum
+  - file: maddy1988believing/small_large
+  - file: maddy1988believing/references
 - file: maddy1988believing2/gloss
