@@ -1,5 +1,8 @@
-- file: intro
-
-- file: maddy1988believing
+format: jb-book
+root: intro
+chapters:
+- file: maddy1988believing/gloss
+  sections:
+  - file: maddy1988believing/intro
+  - file: maddy1988believing/zfc
 - file: maddy1988believing2
-  
