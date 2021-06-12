@@ -1,27 +1,31 @@
-## The Axioms of ZFC
-* Starting with these to counteract impression that 
-    * ZFC axioms are more "intrinsic" 
-    * other axioms candidates are only "extrinsic" 
-* Textbooks that "derive" ZFC from the iterative conception encourage this incorrect view
-* Even a cursory look at the axioms reveals this characterization doesn't hold up
-* Adoption of ZFC axioms "should be viewed as a historical accident, not a sign of their privileged epistemological or metaphysical status"
+# The Axioms of ZFC
+Starting with these to counteract impression that:
+* ZFC axioms are more "intrinsic" 
+* other axioms candidates are only "extrinsic" 
 
-#### Intrinsic / Extrinsic
+````{margin}
+```{admonition} Intrinsic / Extrinsic
 This distinction comes up frequently
 
-##### Intrinsic
+**Intrinsic**
 * Obvious, self-evident
 * Following directly from the concept of the set
 
-##### Extrinsic
+**Extrinsic**
 * Pragmatic, heuristic
 * Justified for 
     * consequences,
     * intertheoretic connections
     * explanatory power
 * More like techniques of natural sciences
+```
+````
 
-#### origins of ZFC
+Textbooks that "derive" ZFC from the iterative conception encourage this incorrect view
+* Even a cursory look at the axioms reveals this characterization doesn't hold up
+* Adoption of ZFC axioms "should be viewed as a historical accident, not a sign of their privileged epistemological or metaphysical status"
+
+## The origins of ZFC
 ````{margin}
 ```{admonition} remark
 Maddy introduces the anecdote above as the beginning of the "impulse towards axiomatization," which sounds very general and likely to require a longer discussion. However, her argument makes more sense if understood as giving the historical origns of Zermelo's first axioms.

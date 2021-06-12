@@ -22,7 +22,7 @@ Part 1 (this paper):
 * Continuum Problem
 * Small large cardinals and measurable cardinals
 
-Part 2 ([summarized here](maddy1988believing2/gloss.md)):
+Part 2 ([summarized here](../maddy1988believing2/gloss)):
 * Determinacy hypothesis
 * Large large cardinals
 * Philosophical observations
