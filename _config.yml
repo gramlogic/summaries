@@ -17,3 +17,11 @@ repository:
 html:
   use_repository_button: true
   use_edit_page_button: true
+
+parse:
+  myst_enable_extensions:
+    - deflist
+    - dollarmath
+    - linkify
+    - substitution
+    - colon_fence
