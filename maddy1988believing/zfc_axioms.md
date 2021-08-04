@@ -30,7 +30,12 @@ Boolos: "if any sense can be made of the distinction between analytic and synthe
 ```{admonition} Foundation
 :class: dropdown
 
-Placeholder
+Aka "Regularity"
+
+Every non-empty set is disjoint with at least one of its elements.
+
+Note: This does not appear in Enderton until very late.
+
 ```
 
 ```{admonition} Pairing and Union 
