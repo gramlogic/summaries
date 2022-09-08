@@ -175,7 +175,7 @@ Has come to be used for:
   * ideal of phonetic writing
   * therefore metaphysics of phonetic writing
   * therefore metaphysics itself
-  * particulary _episteme_ and _istoria_
+  * particulary _epistémè_ and _istoria_
   * two concepts which are "detours _for the purpose of_ the reappropriation of presence"
 
 #### remark
