@@ -1,50 +1,51 @@
 # The Signifier and Truth
-* This section claims the advent of writing shifts away from the metaphysical determination of truth.
-* Then it explains why: 
-  * truth has always been closely connected with speech
-  * except in special cases where "writing" is used metaphorically.
+## Section Overview:
+* Claims the advent of writing shifts away from the metaphysical determination of truth.
+* Explains why: 
+    * truth has always been closely connected with speech
+    * except in special cases where "writing" is used metaphorically.
 
-## Claim
+### Claim:
+* As a consequence of "radicalized" writing:
+* the "rationality" that governs this primary writing "no longer issues from a logos."
+* This governing "rationality" "inaugurates" the "de-construction" of 
+    * "all significations that have their source in the logos." 
+    * Especially "truth"
 
-### Consequences of radicalized writing 
-* The "rationality" that governs this primary writing "no longer issues from a logos."
-* Same governing "rationality" "inaugurates" the "de-construction" of 
-  * "all significations that have their sourcein the logos." 
-  * Especially "truth"
-
-#### rationality
+#### Problem with "rationality":
 Why Derrida suggests finding a new word:
-* ratio is a translation of logos
-* irrational numbers, for example, were "alogos"
 
-#### paraphrase
+* ratio is a translation of logos
+* irrational numbers, for example, were _alogos_
+
+#### Paraphrase of claim:
 * Whatever determines the behavior of this primary writing should not be called a "logic."
-* One of projects this non-logic i bringing about is the deconstruction of all meanings derived from the logos.
+* One of projects this non-logic is bringing about is the deconstruction of all meanings derived from the logos.
 
 #### Remark:
-* Perhaps we could say grammar to name the collection of rules that control or describe the movement of this writing.
+* Perhaps we could say "grammar" to name the collection of rules that control or describe the movement of this writing?
 
-## The order of the logos
+## Justification of claim, part 1: the order of the logos
 
-### "truth", logos
+### "truth" and logos
 * All metaphysical determinations of truth 
-  * Also the one "beyond metaphysical ontotheology that Heidegger reminds us of"
+    * Also the one "beyond metaphysical ontotheology that Heidegger reminds us of"
 * are inseparable from 
-  * the logos
-  * a reason thought within the lineage of the logos
-* whether truth its sense is
-  * pre-Socratic
-  * philosophical
-  * God's infinite understanding
-  * anthropological
-  * pre-Hegelian
-  * post-Hegelian
+    * the logos
+    * a reason thought within the lineage of the logos
+* whether the sense of truth is
+    * pre-Socratic
+    * philosophical
+    * God's infinite understanding
+    * anthropological
+    * pre-Hegelian
+    * post-Hegelian
 
-### truth, _phoné_
+### truth and _phoné_
 * "The original and essential link to the _phoné_ has never been broken."
 * "the essence of the _phoné_ would be immediately proximate" to
 * "that within which 'thought' as logos relates to 'meaning'"
-* relates: "produces," "receives," "speaks," "composes"
+* relates = "produces," "receives," "speaks," "composes"
 
 #### remark
 * Derrida uses scare quotes through this passage without much explanation.
@@ -55,22 +56,28 @@ Why Derrida suggests finding a new word:
 * Both indicate that the concept referred to by the quoted term is suspect.
 * Similarly, the quotes around "thought" and "meaning" could be meant to indicate that, like "rationality," they are "significations that have their source in that of the logos."
 
-#### question
+#### question:
 'the essence of the _phoné_ would be immediately proximate to that which within "thought" as logos relates to "meaning"'
-* simplified: 'the essence of the _phoné_ would be immediately proximate to that which relates to "meaning"'
-  * without the extra phrase this makes sense.
-  * What is meant by 'within "thought" as logos'?
-  * Really, what is confusing is just "as logos" and the scare quotes.
-  * Maybe "thought" as logos distinguishes it from other possible ways of conceiving "thought"?
-  * Like, within metaphysics, thought is confined to and controlled by logos, meaning "reason"
 
-#### question
+* simplified: 'the essence of the _phoné_ would be immediately proximate to that which relates to "meaning"'
+    * without the extra phrase this makes sense.
+* 'within "thought" as logos'?
+    * Really, what is confusing is just "as logos" and the scare quotes around thought.
+    * Maybe the intent is to distinguish "thought as logos" from other possible ways of conceiving "thought"?
+    * Like, within metaphysics, thought is confined to and controlled by logos, meaning "reason"
+    * In this interpretation, the scare quotes about "thought" indicate the word is being used in a way that is influenced by logocentrism.
+
+#### question:
 Why is "compose" in scare quotes?
+
 * rassembler... re-assembler...
 * assemble: ad simul, to copy / simulate
 * compose: place together
 
-#### producer of the first signifier
+### privilege of the voice
+* produces first signifier
+* not just one among others
+* signifies "mental experiences"
 
 ##### Aristotle:
 * spoken words represent mental experience
@@ -78,11 +85,6 @@ Why is "compose" in scare quotes?
 
 ##### Why?
 * "the voice, producer of _the first symbols_, has a relationship of essential and immediate proximity with the mind"
-
-##### Voice:
-* produces first signifier
-* not just one among others
-* signifies "mental experiences"
 
 ##### Mental Experiences:
 * mirror things by natural resemblance
@@ -99,6 +101,7 @@ Why is "compose" in scare quotes?
 * relates immediately to natural / universal signification
 
 ##### Written language:
+* a second convention, but this is what
 * establishes conventions
 * "interlinks other conventions"
 
